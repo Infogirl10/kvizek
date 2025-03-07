@@ -1,5 +1,5 @@
 # biologyquizzes
-Biológia kvízek <br>
+Biológia kvízek 2020 (OKTONDI-ra) <br>
 A légzés:<br>
 https://wordwall.net/hu/resource/928509/a-l%c3%a9gz%c3%a9s<br>
 Keringés:<br>
